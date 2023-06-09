@@ -15,7 +15,7 @@
         <java.version>1.6</java.version>
         <scala.version>2.9.2</scala.version>
         <jee.version>6.0</jee.version>
-        <jsfApi.version>2.1.2</jsfApi.version>
+        <jsfApi.version>2.2.20</jsfApi.version>
         <jsfImpl.version>2.1.2</jsfImpl.version>
         <jspApi.version>2.1</jspApi.version>
         <jstl.version>1.2</jstl.version>
